@@ -31,7 +31,7 @@ COMPONENTS:
     -FIRMWARE UPDATE WITHOUT ARDUINO
 */
 #include <Arduino.h>
-
+#include "PinDefinitions.h"
 void setup() 
 {
     
